@@ -5,6 +5,7 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - Condiciones (Ejercicios 4-7)
 - Bucles (Ejercicios 8-11)
 - Listas,tuplas y diccionarios (Ejercicios 12-19)
+- Funciones(Ejercicios 20-22)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
