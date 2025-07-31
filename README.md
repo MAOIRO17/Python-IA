@@ -7,6 +7,7 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - Listas,tuplas y diccionarios (Ejercicios 12-19)
 - Funciones (Ejercicios 20-22)
 - Funciones Avanzadas (Ejercicios 23-25)
+- Captura y control de errores (Ejercicios 26-28)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
