@@ -15,7 +15,8 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - Ejercicio de gestión de tareas (Ejercicio 33)
 ### Programación Orientada a Objetos
 - POO (Ejercicio 34)
-- Encapsulamiento ()
+- Encapsulamiento (Ejercicios 35 y 36)
+- Herencia (Ejercicios 37 y 38)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
