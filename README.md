@@ -10,6 +10,7 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - Captura y control de errores (Ejercicios 26-28)
 - Lectura y escritura de ficheros txt (ejercicios 29 y 30)
 - Lectura y escritura de ficheros csv/json (ejercicios 31 y 32)
+- Ejercicio de gestión de tareas (Ejercicio 33)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
