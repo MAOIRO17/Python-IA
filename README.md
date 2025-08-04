@@ -17,6 +17,7 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - POO (Ejercicio 34)
 - Encapsulamiento (Ejercicios 35 y 36)
 - Herencia (Ejercicios 37 y 38)
+- Constructor,destructor (Ejercicios 39-41)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
