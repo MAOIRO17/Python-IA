@@ -24,6 +24,9 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - Ej Práctico CRUD (Ejercicio 47)
 - Métodos mágicos,getters,setters (Ejercicios 48-50)
 - Ejercicio Práctico Ascensor (Carpeta EjercicioPráct_Ascensor)
+### Ejercicios Avanzados
+- Importación módulos propios (Carpeta Módulos)
+- Control de errores (Ejercicios 51 y 52)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
