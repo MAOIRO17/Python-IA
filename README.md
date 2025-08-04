@@ -19,7 +19,8 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - Herencia (Ejercicios 37 y 38)
 - Constructor,destructor (Ejercicios 39-41)
 - UML (Ejercicios 42 y 43)
--Serializar objetos (Ejercicio 44)
+- Serializar objetos (Ejercicio 44)
+- Relaciones entre Objetos (Ejercicio 45 y 46)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
