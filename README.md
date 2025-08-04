@@ -20,8 +20,10 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - Constructor,destructor (Ejercicios 39-41)
 - UML (Ejercicios 42 y 43)
 - Serializar objetos (Ejercicio 44)
-- Relaciones entre Objetos (Ejercicio 45 y 46)
+- Relaciones entre Objetos (Ejercicios 45 y 46)
 - Ej Práctico CRUD (Ejercicio 47)
+- Métodos mágicos,getters,setters (Ejercicios 48-50)
+- Ejercicio Práctico Ascensor (Carpeta EjercicioPráct_Ascensor)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
