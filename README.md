@@ -21,6 +21,7 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - UML (Ejercicios 42 y 43)
 - Serializar objetos (Ejercicio 44)
 - Relaciones entre Objetos (Ejercicio 45 y 46)
+- Ej Práctico CRUD (Ejercicio 47)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
