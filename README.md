@@ -30,6 +30,7 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - Assert (Ejercicios 53-55)
 - Docstring (Ejercicios 56 y 57)
 - Decoradores (Ejercicios 58 y 59)
+- Test (Ejercicios 60 y 61)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
