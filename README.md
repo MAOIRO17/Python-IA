@@ -27,6 +27,7 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 ### Ejercicios Avanzados
 - Importación módulos propios (Carpeta Módulos)
 - Control de errores (Ejercicios 51 y 52)
+- Assert (Ejercicios 53-55)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
