@@ -39,4 +39,7 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
- 
+## Fuentes y Referencias
+- Documentación oficial de Python: https://docs.python.org/3
+- Portal de cursos de Udemy (https://www.udemy.com)
+- Tutoriales y GitHub (https://github.com/josecodetech)
