@@ -33,6 +33,7 @@ Colección de ejercicios y ejemplos desarrollados en Python, aprovechando las su
 - Test (Ejercicios 60 y 61)
 - Pasar datos desde terminal (Ejercicio 62)
 - Serializar (Ejercicio 63)
+- Modelo Vista Controlador (Carpeta MVC)
 ## Requisitos
 - Python 3.8 o superior
 - GitHub Copilot habilitado en tu editor (VS Code, Neovim, JetBrains, etc.)
